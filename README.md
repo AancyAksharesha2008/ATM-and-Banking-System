@@ -54,6 +54,7 @@ Specifying the context and requirements of a system
 
 
 
+
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -67,6 +68,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+![Uploading Screenshot 2026-10-25 151853.png…]()
 
 
 
@@ -77,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="741" height="567" alt="Screenshot 2026-10-25 151928" src="https://github.com/user-attachments/assets/37ff75a9-142a-4ca8-855d-b58eaa61cf45" />
 
 
 # PACKAGE DIAGRAM:
@@ -88,6 +91,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+![Uploading Screenshot 2026-10-25 151948.png…]()
 
 
 
@@ -106,6 +110,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![Uploading Screenshot 2026-10-25 152008.png…]()
 
 
 
