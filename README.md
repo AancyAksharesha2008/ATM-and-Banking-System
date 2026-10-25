@@ -113,6 +113,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 <img width="727" height="572" alt="Screenshot 2026-10-25 152103" src="https://github.com/user-attachments/assets/2f735b47-dd2d-4520-8b44-32c2ea840e52" />
+
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
