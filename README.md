@@ -50,6 +50,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1148" height="803" alt="Screenshot 2026-10-25 151435" src="https://github.com/user-attachments/assets/d97d8192-adda-4cfa-9449-01b10cbf6014" />
 
 
 
@@ -68,7 +69,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-![Uploading Screenshot 2026-10-25 151853.png…]()
+<img width="737" height="572" alt="Screenshot 2026-10-25 151853" src="https://github.com/user-attachments/assets/7ae2f748-b756-4938-aaf9-03fcaae6b9e9" />
+
 
 
 
@@ -91,7 +93,8 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-![Uploading Screenshot 2026-10-25 151948.png…]()
+<img width="1118" height="677" alt="Screenshot 2026-10-25 151948" src="https://github.com/user-attachments/assets/8e496ad0-bc87-48a1-9ed4-5abd93c25149" />
+
 
 
 
@@ -109,8 +112,8 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="737" height="573" alt="Screenshot 2026-10-25 152008" src="https://github.com/user-attachments/assets/579e94bf-307c-475f-9683-a86d68c3b357" />
 
-![Uploading Screenshot 2026-10-25 152008.png…]()
 
 
 
@@ -132,6 +135,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="727" height="572" alt="Screenshot 2026-10-25 152103" src="https://github.com/user-attachments/assets/2f735b47-dd2d-4520-8b44-32c2ea840e52" />
 
 
 
