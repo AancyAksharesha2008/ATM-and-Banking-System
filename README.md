@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040003
+# Name: Aancy Aksharesha A
+# Date:25-10-2026
 
 
 # AIM:
@@ -69,9 +69,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
 <img width="737" height="572" alt="Screenshot 2026-10-25 151853" src="https://github.com/user-attachments/assets/7ae2f748-b756-4938-aaf9-03fcaae6b9e9" />
-
-
 
 
 # COMMUNICTION DIAGRAM:
